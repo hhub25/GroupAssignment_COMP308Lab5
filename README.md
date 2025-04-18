@@ -18,12 +18,15 @@ Implementation of the Summarizer:
 - The frontend (HTML/CSS) was styled using Bootstrap 5 for a clean and modern user interface.
 - Users can paste any article into a textarea, and the Gemini model generates a smart summary.
 
-Selection of Articles:
-- We selected two recent and relevant articles based on sustainability and emerging technologies:
-   1. Environmental Impact Article:
-      "xyz" (xyz, date)
-   2. Sustainable Solutions Article:
-      "xyz" (xyz, date)
+### Selection of Articles:
+- We selected recent and relevant articles based on sustainability and emerging technologies:
+   1. **Environmental Impact Articles:**
+      - [Explained: Generative AI’s environmental impact.](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) (2025, January 17)
+      - [AI has an environmental problem. Here’s what the world can do about that.](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about) (2024, September 21)
+   2. **Sustainable Solutions Articles:**
+      - [Google’s geothermal energy ambitions are growing.](https://www.theverge.com/news/648979/google-geothermal-energy-power-purchase-agreement-asia-taiwan) (2025, April 15)
+      - [Xbox says its energy-saving initiatives are worth 1 billion car miles per year.](https://www.polygon.com/news/455500/xbox-energy-saving-green-power) (2024, September 24)
+      - [Amazon, Google & Meta: Is nuclear the low-carbon solution?](https://sustainabilitymag.com/articles/why-are-amazon-google-meta-backing-nuclear) (2025, March 13)
 - Articles were chosen to match the assignment themes and provide up-to-date real-world examples.
 
 Testing the Solution:
